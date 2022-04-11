@@ -1,5 +1,1 @@
-I am kind of perfect in this
-adding second line from puttyy
-
-adding new line on console and added new line from github
-5th line added
+echo "hello world"
